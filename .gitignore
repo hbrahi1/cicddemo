@@ -3,3 +3,6 @@ default-*.json
 gen/
 node_modules/
 target/
+*.encoded
+config
+.vscode/
