@@ -1,0 +1,5 @@
+connection.properties
+default-*.json
+gen/
+node_modules/
+target/
