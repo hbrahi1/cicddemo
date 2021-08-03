@@ -14,7 +14,7 @@ spec:
         version: v1
     spec:
       containers:
-        - image: ghcr.io/<user>/<repo name>:latest REPLACE THIS LINE
+        - image: ghcr.io/<hbrahi1>/cicddemo.git:latest
           imagePullPolicy: Always
           name: tech-bytes
           ports:
